@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="TesteBombaV1Vs2022.Views.LoginPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Shell.NavBarIsVisible="False"
+    mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
+            <Button
+                BackgroundColor="#F50505"
+                BorderColor="#000000"
+                BorderWidth="1"
+                Command="{Binding LoginCommand}"
+                Text="Login"
+                VerticalOptions="Center" />
+            <Button
+                Command="{Binding BombaCommand}"
+                Text="Bomba"
+                VerticalOptions="End" />
+            <Image
+                IsAnimationPlaying="True"
+                IsVisible="false"
+                Source="Bomba.gif" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
