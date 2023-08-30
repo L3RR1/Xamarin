@@ -65,6 +65,7 @@ C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\Te
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\res\drawable\xamarin_logo.png
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\res\drawable\icon_about.png
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\res\drawable\icon_feed.png
+C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\res\drawable\bomba.gif
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\uploadflags.txt
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\resolvedassemblies.hash
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\android\assets\FormsViewGroup.dll
@@ -639,4 +640,3 @@ C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\Te
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Gabriel.Rodrigues\source\repos\TesteBombaV1Vs2022\TesteBombaV1Vs2022\TesteBombaV1Vs2022.Android\obj\Debug\130\res\drawable\bomba.gif
